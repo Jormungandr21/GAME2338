@@ -1,4 +1,4 @@
-# Game Review for (GAME TITLE)
+# Game Review for Shantae and the Pirate's Curse
 Shantae and the Pirate's Curse
 ### Game Title
 Shantae and the Pirate's Curse
