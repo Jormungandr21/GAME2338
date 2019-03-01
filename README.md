@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Playtest for [Dead Island Retro Revenge]
 
-You can use the [editor on GitHub](https://github.com/Jormungandr21/GAME2338/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* Deep Silver
+* 6/10
+* https://store.steampowered.com/app/337360/Dead_Island_Retro_Revenge/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
+> They were quite clear side scroll to the right and kill enemies to get points
 
-### Markdown
+**Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
+> Not really there were somethings i didn't like but beside that everything worked together nicely
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
+> It was pretty balanced enemies not too difficult with the tools given
 
-```markdown
-Syntax highlighted code block
+**Question:** Does the timing of this game appear to be about right for this type of game?
+> Playing it no stages felt too long or too short
 
-# Header 1
-## Header 2
-### Header 3
+**Question:** During gameplay did the mechanics and theme go together and reinforce each other?
+> In the sense of dead island originally could let you attack enemies from different angles yes, but it also didn't feel like a dead island game, could've been any zombie arcade game
 
-- Bulleted
-- List
+**Question:** Did you have fun playing this game?
+> Tonnes of fun
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jormungandr21/GAME2338/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Question:** During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
+> The enemies that attacked from behind tended to grab me anyways even if i hit them and since they should die in one hit seems pretty strange
