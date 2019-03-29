@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Playtest for [Steven Universe Save the Light]
 
-You can use the [editor on GitHub](https://github.com/Jormungandr21/GAME2338/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* Cartoon Network Games
+* 9/10
+* [https://en.wikipedia.org/wiki/Steven_Universe:_Save_the_Light]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> All the rules were clear and easy to understand
 
-### Markdown
+> During the final boss fight is when it gets wierd the final boss is supposed to take awhile and not be a regular mob, but if you use a team skill turret it will kill the boss in about a couple seconds triggering quicktime events at whatever threshold and then go into the next one. If it was remove the boss fight is really hard compared to the rest of the game
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Not really the game itself isn't that hard but some of bosses seem a little too hard for the type of game, ofcourse that's only if you don't use CERTAIN team skills like the turret which does way too much damage
 
-```markdown
-Syntax highlighted code block
+> Yes for a side scroller it did not take too long at all
 
-# Header 1
-## Header 2
-### Header 3
+> Yes really kept up with the show with the characters combat and the fusions otherwise none as team skills
 
-- Bulleted
-- List
+> Yes
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jormungandr21/GAME2338/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> I could get characters to freeze in place if they got hit with a debilitating status effect and didn't recover before the boss fight ended. Example one character being frozen at the end of a fight and then afterwards the character would still be frozen during the end boss cutscene
