@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Game Review for Sekiro
 
-You can use the [editor on GitHub](https://github.com/Jormungandr21/GAME2338/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Game Title: Sekiro
+Devoloped by From Software and Published by Activision
+https://www.sekirothegame.com/
 
-### Markdown
+### Rating
+Rated A on a scale of S A B C D E F
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Summary
+This is a rpg game set at the end of the sengoku ere japan about a shinobi on a quest to retrieve his master from the people who took him killing anyone and anything that stands in his way. Gameplay introduces posture as well as a health bar the posture bar can be considered another health bar that works in the opposite way where if it's full and you block or get hit you'll be opened up to an instant kill. You can increase the damage to the enemies posture by deflecting an attack instead of blocking, it introduces an extra difficulty to the game where blocking repeatedly can result in your death and this mechanic is applied to every enemy and yourself. Another mechanic is the shinobi prostetic which is pretty much just random tools that cause certain things to happen from scaring enemies, catching people on fire, using a grappling hook and throwing a shuriken allowing multiple ways to dealing with enemies fighting head-on which will more than likely result in death if outnumbered or stealth which allows to instantly kill enemies unaware of you. The game has multiple endings which all but two are difficult to actually attain having to go almost completely out of the way of the main quest which id mildly annoying but if you meet the requirements to get the ending at the end of the final boss fight you can choose which ending you get besides the betrayel ending which you can get pretty early compared to the rest.
 
-```markdown
-Syntax highlighted code block
+## Final Thoughts
+The game is generally much more difficult than previous From Software games Bloodborne and Dark Souls but just like those games it gets generally easier the more you memorize the enemy and react to the attack patterns
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jormungandr21/GAME2338/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Additional Information
+Links to other reviews or other information you used in this review.
