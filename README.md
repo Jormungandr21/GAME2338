@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Test Tools
 
-You can use the [editor on GitHub](https://github.com/Jormungandr21/GAME2338/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Selenium
+Ranorex
+Sahi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Selenium
+Selenium is used for testing web application testing on Windows, Mac, and Linux and helps to write tests in Java, PHP, C#, Python, Groovy, Ruby, and Perl. It offers record and playback features to write tests without learning Selenium IDE.
 
-### Markdown
+### Ranorex
+Ranorex allows automated testing on desktop, web, and mobile.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ranorex offers following features:
 
-```markdown
-Syntax highlighted code block
+Accelerate testing for desktop, web and mobile applications.
+Automated testing on a Windows desktop, can be executed locally or remotely, on iOS or Android devices or emulators. Can also tests across different web browsers like Chrome, Firefox, Safari, and Microsoft Edge.
 
-# Header 1
-## Header 2
-### Header 3
+Powerful reporting features
+Keep your project on track with timely reports.
+Monitor the results with an overview of the test execution flow, including pie charts, screenshots, and detailed error logs. View a comprehensive test report within Ranorex Studio, save it as a PDF or automatically receive it as an email attachment. Generate JUnit-compatible reports for easy integration with CI tools. Reduce debugging time with video reporting of test execution. Jump directly into a failed test step from the test run report, or use the maintenance mode to repair tests on the fly while the test is still running.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Code editor
+Create flexible test automation scripts using standard programming languages.
+The Ranorex library is based on the Microsoft .NET framework. You can directly utilize the Ranorex API and create robust test automation projects entirely in C# or VB.NET.
 
-**Bold** and _Italic_ and `Code` text
+Define and manage test scenarios in the test suite.
+Do it all in the test suite: create new test cases by combining existing code or recording modules, define custom run configurations for your tests, handle parameterization or configure data bindings, and more.
 
-[Link](url) and ![Image](src)
-```
+### Sahi
+Sahi is a testing automation tool to automate web applications testing. The open source Sahi is written in Java and JavaScript programming languages.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Sahi provides following features:
 
-### Jekyll Themes
+Test browsers like chrome, safari, microsoft edge, and firefox.
+Test desktop applications like java, wpf, win32, winforms, .net, and silverlight
+Test ios and android systems native and hybrid
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jormungandr21/GAME2338/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Automatic Logging and Reporting
+See complete information of script execution. From concise summaries and graphs to exact line of script failure in code, experience true end to end reporting. All logs are stored in database.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Parallel and Distributed Playback
+You can club together thousands of Sahi Pro scripts in a suite file and let Sahi Pro execute them in parallel on one machine or distribute it across machines.
