@@ -4,8 +4,19 @@ Selenium
 Ranorex
 Sahi
 
-### Selenium
-Selenium is used for testing web application testing on Windows, Mac, and Linux and helps to write tests in Java, PHP, C#, Python, Groovy, Ruby, and Perl. It offers record and playback features to write tests without learning Selenium IDE.
+### TestComplete
+
+Building Automated UI Tests
+Use the scriptless Record and Replay or keyword-driven tests to easily create automated UI tests. Record your tests once and play them back across wide range of desktop, web, and mobile applications.
+
+Object Recognition Engine now with Artificial Intelligence
+Save time creating and maintaining tests by accurately identifying dynamic UI elements with both property-based and AI-powered visual recognition. Manage objects in a single repository and set it up locally or to be shared depending on your needs.
+
+HTML5 Test Automation
+Write one automated test script to test HTML/HTML5 web applications across all of the latest releases of Chrome, Edge, Firefox, Opera or deprecated versions of Internet Explorer (IE).
+
+Automated Test Reporting & Analysis
+Get real-time information on the progress and status of your desktop, web, or mobile UI tests from a single interface. Easily connect with popular defect tracking tools such as Jira and Bugzilla for instant feedback and continuous learning.
 
 ### Ranorex
 Ranorex allows automated testing on desktop, web, and mobile.
